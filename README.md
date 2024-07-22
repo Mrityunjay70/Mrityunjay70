@@ -45,7 +45,7 @@ justify-content: space-around;" align="center" > <a href="https://babeljs.io/" t
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjay70&show_icons=true&locale=en&layout=compact"alt="mrityunjay70" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mrityunjay70&show_icons=true&locale=en "  alt="mrityunjay70" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityunjay70&show_icons=true&locale=en "  alt="mrityunjay70" /></p> 
 
 <p><img align="leftt" src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunjay70&" alt="mrityunjay70" /></p>
 
